@@ -1,0 +1,13 @@
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.deps.json
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.runtimeconfig.json
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.runtimeconfig.dev.json
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.dll
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/bin/Debug/netcoreapp3.1/SyntaxSugar.pdb
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.AssemblyInfo.cs
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.dll
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.pdb
+/Users/seanmorgan/repos/SyntaxSugar/SyntaxSugar/obj/Debug/netcoreapp3.1/SyntaxSugar.genruntimeconfig.cache
